@@ -1,0 +1,17 @@
+{
+  "image_index": 0,
+  "widget_opacity": 0.95,
+  "border_color": "#FF0000",
+  "border_thickness": 4,
+  "border_opacity": 1.0,
+  "widget_size": [
+    200,
+    200
+  ],
+  "image_paths": [
+    "/mnt/data/SunWidget_Enhanced/images/example_0_square.png",
+    "/mnt/data/SunWidget_Enhanced/images/example_1_square.png",
+    "/mnt/data/SunWidget_Enhanced/images/example_2_square.png"
+  ],
+  "shape": "rectangle"
+}

@@ -1,0 +1,27 @@
+{
+  "image_index": 1,
+  "widget_opacity": 0.41,
+  "border_color": "#0e12ff",
+  "border_thickness": 4,
+  "border_opacity": 1.0,
+  "widget_size": [
+    200,
+    200
+  ],
+  "shape": "rectangle",
+  "square_images": [
+    "images\\example_0_square.png",
+    "images\\example_1_square.png",
+    "images\\example_2_square.png"
+  ],
+  "circle_images": [
+    "images\\example_0_circle.png",
+    "images\\example_1_circle.png",
+    "images\\example_2_circle.png"
+  ],
+  "image_paths": [
+    "/mnt/data/SunWidget_Enhanced/images/example_0_square.png",
+    "/mnt/data/SunWidget_Enhanced/images/example_1_square.png",
+    "/mnt/data/SunWidget_Enhanced/images/example_2_square.png"
+  ]
+}
